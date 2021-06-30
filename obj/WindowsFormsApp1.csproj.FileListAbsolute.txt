@@ -1,0 +1,11 @@
+E:\HanoiTurm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\HanoiTurm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\HanoiTurm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\HanoiTurm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\HanoiTurm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\HanoiTurm\WindowsFormsApp1\bin\Debug\Türme von Hanoi.exe.config
+E:\HanoiTurm\WindowsFormsApp1\bin\Debug\Türme von Hanoi.exe
+E:\HanoiTurm\WindowsFormsApp1\bin\Debug\Türme von Hanoi.pdb
+E:\HanoiTurm\WindowsFormsApp1\obj\Debug\Türme von Hanoi.exe
+E:\HanoiTurm\WindowsFormsApp1\obj\Debug\Türme von Hanoi.pdb
+E:\HanoiTurm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.msg.resources
